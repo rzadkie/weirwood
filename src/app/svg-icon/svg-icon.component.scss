@@ -1,0 +1,20 @@
+// :host {
+//     svg {
+//       all: inherit;
+//     }
+//   }
+
+svg{
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: auto;
+    text-align: center;
+    use{
+        width: 100%;
+        height: 100%;
+        display: block;
+        margin: auto;
+    
+    }
+}

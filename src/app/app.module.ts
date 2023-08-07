@@ -3,10 +3,24 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { LogoComponent } from './logo/logo.component';
+import { IconComponent } from './icon/icon.component';
+import { SvgIconComponent } from './svg-icon/svg-icon.component';
+import { HomeComponent } from './home/home.component';
+import { NewsComponent } from './news/news.component';
+import { NewsPageComponent } from './news-page/news-page.component';
+import { ToolbarComponent } from './toolbar/toolbar.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    LogoComponent,
+    IconComponent,
+    SvgIconComponent,
+    HomeComponent,
+    NewsComponent,
+    NewsPageComponent,
+    ToolbarComponent
   ],
   imports: [
     BrowserModule,

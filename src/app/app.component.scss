@@ -1,0 +1,47 @@
+.background{
+    background-color: rgba(0, 0, 0, 0.692);
+    position: absolute;
+
+    //display: block;
+    z-index: 1;
+}
+.LogoUpperLeft{
+    display: flex;
+    width: 20rem;
+    height: 7rem;
+}
+
+// .background-video-container{
+//     z-index: 0 ;
+//     position: absolute;
+//     width: 100vw;
+//     height: 100vh;
+//     video{
+//         scale: 4;
+//         width: 100%;
+//         height: 100%;
+//     }
+// }
+
+// .content{
+//     background: rgb(0,0,0);
+//     background: radial-gradient(circle, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 83%);
+//     z-index: 5;
+//     display: flex;
+//     flex-direction: column;
+//     width: 100vw;
+//     height: 100vh;
+  
+//     }
+
+// footer{
+
+//     z-index: 5;
+//     padding-top: 1rem;
+//     height: 5rem;
+//     display: flex;
+//     place-content: center;
+
+// }
+
+
