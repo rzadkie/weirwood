@@ -16,8 +16,9 @@ header{
     }
 
 }
-.NewsComponentsContainer{
+.GigsComponentsContainer{
     display: flex;
+    flex-direction: column;
     place-content: center;
-    align-content: center;
+    align-items: center;
 }

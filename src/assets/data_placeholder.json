@@ -1,0 +1,42 @@
+{
+    "post1": {
+      "id": 1,
+      "title": "Lorem Ipsum",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "media": "https://example.com/image1.jpg",
+      "date": "2012-04-23T18:25:43.511Z"
+      
+    },
+    "post2": {
+      "id": 2,
+      "title": "Vestibulum Eros",
+      "content": "Vestibulum eros ipsum, et mattis velit.",
+      "media": "https://example.com/image2.jpg",
+      "date": "2013-10-21T13:28:06.419Z"
+    },
+    "post3": {
+      "id": 3,
+      "title": "Pellentesque Augue",
+      "content": "Pellentesque augue felis, sollicitudin quis ullamcorper sit amet.",
+      "media": "https://example.com/image3.jpg",
+      "date": "2012-04-23T18:25:43.511Z"
+
+    },
+    "post4": {
+      "id": 4,
+      "title": "Nullam Tristique",
+      "content": "Nullam tristique purus ac libero hendrerit, at cursus lorem fringilla.",
+      "media": "https://example.com/image4.jpg",
+      "date": "2013-10-21T13:28:06.419Z"
+
+    },
+    "post5": {
+      "id": 5,
+      "title": "Suspendisse Potenti",
+      "content": "Suspendisse potenti. Nullam tincidunt tortor id suscipit varius.",
+      "media": "https://example.com/image5.jpg",
+      "date": "2012-04-23T18:25:43.511Z"
+      
+    }
+  }
+  

@@ -10,6 +10,7 @@ import { HomeComponent } from './home/home.component';
 import { NewsComponent } from './news/news.component';
 import { NewsPageComponent } from './news-page/news-page.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
+import { GigsPageComponent } from './gigs-page/gigs-page.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ToolbarComponent } from './toolbar/toolbar.component';
     HomeComponent,
     NewsComponent,
     NewsPageComponent,
-    ToolbarComponent
+    ToolbarComponent,
+    GigsPageComponent
   ],
   imports: [
     BrowserModule,
